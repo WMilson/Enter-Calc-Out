@@ -35,7 +35,7 @@
 
 ### Через командную строку
 ```bash
-git clone https://github.com/<ваш-логин>/Enter-Calc-Out.git
+git clone https://github.com/WMilson/Enter-Calc-Out.git
 cd Enter-Calc-Out
 dotnet run
 ```
